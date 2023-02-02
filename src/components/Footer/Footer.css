@@ -1,4 +1,7 @@
+.bottom{
+    background-color: black;
 
+}
 .foot{
     display: flex;
     align-items: center;
