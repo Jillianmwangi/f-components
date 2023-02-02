@@ -1,10 +1,18 @@
-.nav-container {
-  display: flex;
-  background-color: gray;
-}
-.rotess ul {
+.nav-container{
   display: flex;
   flex-direction: row;
+  background-color: tan;
+  justify-content: space-around;
+ 
+}
+.rotess  {
+  display: flex;
+  flex-direction: row;
+  color: navy;
+  justify-content: space-between;
+  font-weight: 900;
+  font-size: 20px;
+  gap: 20px;
 }
 .rotess li {
   list-style: none;

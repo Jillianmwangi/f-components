@@ -1,9 +1,10 @@
 import React from "react";
+import "./Main.css"
 
 function Main() {
   return (
     <div>
-      <p>
+      <p className="text">
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae at est
         asperiores ipsa. Eius totam voluptates fugiat pariatur ab,
         <br />
